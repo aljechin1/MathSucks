@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     EditText percentageTxt;
     EditText numberTxt;
 
+    //now here is a change which is not commited yet
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
