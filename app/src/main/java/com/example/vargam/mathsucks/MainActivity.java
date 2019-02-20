@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
 
     //now here is a change which is not commited yet
 
+    //third change
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
